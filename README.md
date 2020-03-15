@@ -22,3 +22,5 @@ For mounting the LED ring I printed the following parts: <br />
 3x [screws](3d-printed-parts/screwM8_25.stl) <br />
 3x [lens connector](cameraSupportM8.stl) <br />
 1x [ring support](universal-led-ring-mount.stl) <br />
+
+For creating the screws I use a library called ["NUT JOB | Nut, Bolt, Washer and Threaded Rod Factory"](https://www.thingiverse.com/thing:193647)
