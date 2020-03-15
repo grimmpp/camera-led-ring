@@ -17,3 +17,8 @@ You find this simple program in [src/main.cpp](src/main.cpp).
 
 By pushing the button the program increases the brightness until it has reached max, after that it decreases the brightness ... if you release the button it will stop and keep this configuration. 
 If you power of it will always set the brightness to what is set as default value in the program.
+
+For mounting the LED ring I printed the following parts:
+3x [screws](3d-printed-parts/screwM8_25.stl)
+3x [lens connector](cameraSupportM8.stl)
+1x [ring support](universal-led-ring-mount.stl)
