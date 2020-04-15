@@ -25,3 +25,11 @@ For mounting the LED ring I printed the following parts: <br />
 1x [ring support](universal-led-ring-mount.stl) <br />
 
 For creating the screws I use a library called ["NUT JOB | Nut, Bolt, Washer and Threaded Rod Factory"](https://www.thingiverse.com/thing:193647). Here are also links to projects about the ring support: [Universal LED Ring Light Mount](https://www.thingiverse.com/thing:2548178) and [Universal LED Ring Light Mount Minimal](https://www.thingiverse.com/thing:2850113)
+
+For printing the case for the arduino I created a 3d model: <br />
+* [case body](3d-printed-parts/arduinoNanoCase_base.stl) <br />
+* [case lid](3d-printed-parts/arduinoNanoCase_lid.stl) <br />
+
+## Schematic
+<img src="fritzing/Sketch_Schaltplan.png"  width=400 />
+
