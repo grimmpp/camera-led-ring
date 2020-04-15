@@ -1,6 +1,7 @@
 # Camera LED Ring
 
 <table><tr>
+<td><img src="pics/camera2.jpg" height=200 /></td>
 <td><img src="pics/camera.jpg" height=200 /></td>
 <td><img src="pics/led_ring.jpg" height=200 /></td>
 <td><img src="pics/led_ring3.jpg" height=200 /></td>
