@@ -8,11 +8,11 @@
 #ifdef __AVR__
 #include <avr/power.h>
 #endif
-#define PIN A5 //9 // digitalen Pin for  WS2812 LEDs / NeoPixel ring
+#define PIN A5 // digitalen Pin for  WS2812 LEDs / NeoPixel ring
 #define NUMPIXELS 40 // Amount of LEDs
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
-#define TasterPin 0 //11  // pin of button
+#define TasterPin 0 // pin of button
 
 int8_t pause = 500;   // pause at the brightest and darkest point.
 uint8_t brightness = 10;  // current brightness [0-b_max]
